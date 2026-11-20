@@ -1,0 +1,2 @@
+title: ERP Course
+theme: jekyll-theme-cayman
